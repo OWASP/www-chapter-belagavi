@@ -7,7 +7,7 @@ region:
 
 ---
 
-<div style='color:red;'>
+<div style='color:black;'>
 
 This is an official page of OWASP Belagavi Chapter, Karnataka state, India.
 
@@ -18,6 +18,9 @@ Welcome to OWASP Belagavi Chapter. Kindly keep visiting this page for the update
 
 ## Meetings
 Please join [OWASP Belagavi chapter meetup group](https://www.meetup.com/OWASP-Belagavi-Chapter/) to signup for the meetups
+
+## Chapter Sponsor
+Thanks to KLS Gogte Institute of Technology, Belagavi for supporting us by providing venue, resources and snacks.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
