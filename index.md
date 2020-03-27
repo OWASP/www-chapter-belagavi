@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Belagavi
-tags: example-tag
-region: 
+tags: Belagavi
+region: Asia
 
 ---
 
