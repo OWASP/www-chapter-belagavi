@@ -9,7 +9,7 @@ region: Asia
 
 <div style='color:black;'>
 
-This is an official page of OWASP Belagavi Chapter, Karnataka state, India.
+This is an official page of OWASP Belagavi Chapter, Karnataka state, India 
 
 </div>
 
