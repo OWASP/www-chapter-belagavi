@@ -28,5 +28,5 @@ Video Conference Software: Cisco WebEx
 RSVP Link: https://www.meetup.com/OWASP-Belagavi-Chapter/events/270420227/
 
 ## Chapter Sponsor
-Thanks to KLS Gogte Institute of Technology, Belagavi for supporting us by providing venue, resources and snacks.
+Thanks to KLS Gogte Institute of Technology, Belagavi for supporting us by providing venue, resources and snacks.   
 
