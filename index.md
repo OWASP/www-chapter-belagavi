@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Belagavi
 tags: Belagavi
 region: Asia
+meetup-group: OWASP-Belagavi-Chapter
+country: India
+postal-code: 
 
 ---
 
