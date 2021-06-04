@@ -30,7 +30,7 @@ Topic: Introduction to Web Penetration Testing
 Resource Person: Prithvi Gudodagi
 Date: May 10, 2020, 5:00 PM
 Video Conference Software: Cisco WebEx
-RSVP Link: https://www.meetup.com/OWASP-Belagavi-Chapter/events/270420227/
+RSVP [Link:](https://www.meetup.com/OWASP-Belagavi-Chapter/events/270420227/)
 
 ## Chapter Sponsor
 Thanks to KLS Gogte Institute of Technology, Belagavi for supporting us by providing venue, resources and snacks.   
