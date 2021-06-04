@@ -22,6 +22,8 @@ Welcome to OWASP Belagavi Chapter. Kindly keep visiting this page for the update
 ## Meetings
 Please join [OWASP Belagavi chapter meetup group](https://www.meetup.com/OWASP-Belagavi-Chapter/) to signup for the meetups
 
+{% include chapter_events.html group=page.meetup-group %} 
+
 ## Next Meeting
 
 Topic: Introduction to Web Penetration Testing
